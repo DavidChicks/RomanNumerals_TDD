@@ -1,0 +1,6 @@
+C:\Projects\GitHub\RomanNumerals_TDD\RomanNumerals_TDD_01\RomanNumerals_TDD_01\bin\Debug\RomanNumerals_TDD_01.exe.config
+C:\Projects\GitHub\RomanNumerals_TDD\RomanNumerals_TDD_01\RomanNumerals_TDD_01\bin\Debug\RomanNumerals_TDD_01.exe
+C:\Projects\GitHub\RomanNumerals_TDD\RomanNumerals_TDD_01\RomanNumerals_TDD_01\bin\Debug\RomanNumerals_TDD_01.pdb
+C:\Projects\GitHub\RomanNumerals_TDD\RomanNumerals_TDD_01\RomanNumerals_TDD_01\obj\Debug\RomanNumerals_TDD_01.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\RomanNumerals_TDD\RomanNumerals_TDD_01\RomanNumerals_TDD_01\obj\Debug\RomanNumerals_TDD_01.exe
+C:\Projects\GitHub\RomanNumerals_TDD\RomanNumerals_TDD_01\RomanNumerals_TDD_01\obj\Debug\RomanNumerals_TDD_01.pdb
